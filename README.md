@@ -1,6 +1,8 @@
 
 <dive align=center>
-### 🌱 성장중 🌱
+
+###                                                  🌱 성장중 🌱
+
 </div>
 <!--
 **metorg/metorg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
