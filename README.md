@@ -6,7 +6,7 @@
                 
 
 
-[! [Top Langs] (https://github-readme-stats.vercel.app/api/top-langs/ ? username = metorg & layout = compact )] (https://github.com/metorg/github-readme- 통계)
+[! [Top Langs] (https://github-readme-stats.vercel.app/api/top-langs/ ? username = metorg & layout = compact )] (https://github.com/metorg/github-readme)
 <!--
 
 
