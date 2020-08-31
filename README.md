@@ -3,9 +3,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header)
 
-<center>
-### <center>🌱 **성장중** 🌱</center>
-</center>
+<div style="text-align:center">
+### 🌱 **성장중** 🌱
+</div>
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer)                   
 
