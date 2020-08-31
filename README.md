@@ -1,14 +1,14 @@
 
 
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header)
 
 
 # 🌱 **성장중** 🌱
 
 
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer)                   
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=footer)                   
 
 
 </div>
