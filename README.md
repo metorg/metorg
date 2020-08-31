@@ -4,7 +4,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header)
 
 
-###### 🌱 **성장중** 🌱
+# 🌱 **성장중** 🌱
 
 
 
