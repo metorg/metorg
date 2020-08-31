@@ -2,7 +2,7 @@
 
 ###          <tap><tap><tap>                                                                             🌱 성장중 🌱</tap></tap></tap>
 
-<center>가운데</center>
+
                 
 
 
