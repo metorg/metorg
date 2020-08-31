@@ -1,18 +1,15 @@
 
 
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header)
+                                         🌱 **성장중** 🌱
 
 
-###                                                🌱 **성장중** 🌱
+                
 
 
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=footer)                   
-
-
-</div>
 <!--
+
 
 
 Here are some ideas to get you started:
