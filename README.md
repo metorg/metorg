@@ -6,7 +6,7 @@
                 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=metorg&hide=jupyter%20notebook&layout=compact)](https://github.com/metorg/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=metorg&hide=jupyternotebook&layout=compact)](https://github.com/metorg/github-readme-stats)
 <!--
 
 
