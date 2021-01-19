@@ -5,7 +5,7 @@
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=metorg&hide=jupyter%20notebook)](https://github.com/metorg/github-readme-stats)               
 
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj={metrog})](https://solved.ac/{metrog})
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=metrog)](https://solved.ac/metrog)
 
 <!--
 
