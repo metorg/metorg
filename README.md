@@ -3,8 +3,7 @@
   
 ###    <tap><tap><tap>🌱 성장중 🌱</tap></tap></tap> </center>
 
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=metorg&&hide=python,jupyter%20notebook)](https://github.com/metorg/github-readme-stats )               
+          
 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=metrog)](https://solved.ac/metrog)
 </div>
