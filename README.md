@@ -7,7 +7,7 @@
 ![SeungMin's github stats](https://github-readme-stats.vercel.app/api?username=metorg&show_icons=true&theme=gruvbox)
 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=metrog)](https://solved.ac/metrog)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=metorg,jupyter%20notebook&&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=metorg)
 </div>
 <!--
 
